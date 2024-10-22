@@ -33,11 +33,11 @@ pip install matplotlib
 
 If you have a script called example_script.py, run:
 
-``bash
+```bash
 
 python CodePerformance.py example_script.py
 
-``
+```
 This will:
 
     Print performance statistics to the console (execution time and function call counts).
