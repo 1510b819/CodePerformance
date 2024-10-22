@@ -19,11 +19,11 @@ pip install matplotlib
 ```
 ## Usage
 
-    Clone this repository or download the CodePerformance.py script.
+Clone this repository or download the CodePerformance.py script.
 
-    Use the following command to profile any Python script:
+Use the following command to profile any Python script:
 
-    bash
+
 
     python CodePerformance.py <script_to_profile.py>
 
