@@ -12,7 +12,7 @@ Key Features
 
 No external libraries are required other than Python's built-in modules. However, if you want to use the visualization feature, you'll need matplotlib. You can install it with:
 
-```bash
+```
 
 pip install matplotlib
 
